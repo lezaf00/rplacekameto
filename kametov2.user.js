@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TWITCH_FR
+// @name         TWITCH_FR2
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  ZIZOU
