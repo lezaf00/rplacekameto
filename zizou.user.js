@@ -4,7 +4,6 @@
 // @version      0.1
 // @description  ZIZOU
 // @author       LEZAF
-// @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
 // ==/UserScript==
