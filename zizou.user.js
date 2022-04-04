@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         ZIZOU
+// @name         ZIZOU2
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
 // @description  ZIZOU
 // @author       LEZAF
 // @match        https://hot-potato.reddit.com/embed*
