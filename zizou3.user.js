@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         eekeke
+// @name         zizou
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  try to take over the canvas!
-// @author       oralekin, LittleEndu, ekgame
+// @author       le zaf
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
